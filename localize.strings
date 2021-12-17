@@ -1,0 +1,1225 @@
+"propertys_name_description" = "Property's Name/Description";
+
+"the_signatures_on_this_release_were_captured_digitally_on_a_mobile_device." = "The signatures on this release were captured digitally on a mobile device.";
+
+"do_you_want_to_go_to_the_settings" = "Do you want to go to the Settings screen to enter some default information before you create any new releases?";
+
+"email" = "Email";
+
+"amount" = "Amount";
+
+"skip" = "Skip";
+
+"chinese_taiwan" = "Chinese (Taiwan)";
+
+"an_error_occurred_while_encoding_the_custom_template_to_share" = "An error occurred while encoding the Custom Template to Share";
+
+"this_allows_you_to_specify_a_date_range_for_the_shoot" = "This allows you to specify a date range for the shoot";
+
+"company_name" = "Company Name";
+
+"country" = "Country";
+
+"region_state" = "Region/State";
+
+"reset_to_default" = "Reset to Default";
+
+"asian_chinese" = "Asian (Chinese)";
+
+"bcc" = "BCC";
+
+"other_names" = "Other Names";
+
+"edit" = "Edit";
+
+"additional_fields" = "Additional Fields";
+
+"location" = "Location";
+
+"shoots" = "Shoots";
+
+"type_here" = "Type here";
+
+"before_migration_info" = "The data listed above will be converted and transferred to new data structures supported by the new version of the application.";
+
+"name_of_corporation" = "Name of Corporation";
+
+"the_share_function_requires_an_internet_connection" = "The Share function requires an Internet connection";
+
+"not_signed" = "Not signed";
+
+"type" = "Type";
+
+"exit" = "Exit";
+
+"owners_title_position" = "Owner's Title/Position";
+
+"ethnicity" = "Ethnicicty";
+
+"required" = "Required";
+
+"tax_id_ssn" = "Tax ID/SSN";
+
+"text" = "Text";
+
+"required" = "Required";
+
+"european_portuguese" = "Portuguese (European)";
+
+"description" = "Description";
+
+"exit_wizard" = "Exit wizard";
+
+"owner_type" = "Owner Type";
+
+"wizard_corporation_name_info" = "Corporation Name: the name of the corporation which owns the property. This is required for properties owned by corporations.";
+
+"progress" = "Progress";
+
+"multi_page" = "Multi Page";
+
+"owner_name_required" = "Owner's Name (required)";
+
+"enthnicity_description" = "Ethnicity information is requested for descriptive purposes only, and serves as a means of providing more accuracy in assigning search words.";
+
+"parent_name" = "Parent's Name";
+
+"dutch" = "Dutch";
+
+"shoot_date" = "Shoot Date";
+
+"model_name" = "Model's Name";
+
+"optional_fields" = "Optional Fields";
+
+"end_date" = "End Date";
+
+"pro_pack" = "Pro-Pack";
+
+"all_other_names" = "All Other Names";
+
+"norwegian" = "Norwegian";
+
+"hide_built_in_release_templates" = "Hide built-in release templates";
+
+"additional_email_to_send_releases" = "Additional email to send releases to";
+
+"brand" = "Brand";
+
+"model_edit_info" = "Enter information about your model.  You must specify at least a Model Name, and Date of Birth.  For models who are minors, you must also specify the Parent's Name.  You can change the Gender, Ethnicity and Date of Birth by tapping on the field.  All the rest of the fields can be filled in using the keyboard. If you are in the wizard, there is also a Models... button, which allows you to copy the data from any previous model, and a Contacts... button, which allows you to copy data from one of your contacts.  If the contact information is not complete, you may still have to fill in fields like Gender, Ethnicity and Date of Birth, even after you select a contact.";
+
+"delete" = "Delete";
+
+"country" = "Country";
+
+"customtemplateviewimport_info" = "The Custom Template Import screen allows you to import custom templates.\n\nTap on an Import button to import Custom Template.";
+
+"age" = "Age";
+
+"preferences" = "Preferences";
+
+"after_migration_info" = "The above data has been transformed and migrated to new data structures.\n\nIf you have already reviewed the data available in the application - you can delete the old data now.";
+
+"tap_here_to_send" = "Tap here to Send";
+
+"action_during_brand_import" = "Please select actions that should be performed during Custom Template import if duplicate of Brand is found.";
+
+"prepared_for_deleting_preferences_from_icloud_drive" = "prepared for deleting Preferences from iCloud Drive";
+
+"french" = "French";
+
+"custom_templates" = "Custom Templates";
+
+"legal_language" = "Legal Language";
+
+"witness_signature" = "Witness Signature";
+
+"deletion_settings" = "Deletion Settings";
+
+"company_contact_info" = "Company contact info (phone, web, email)";
+
+"migrated" = "Migrated";
+
+"finished_migrating_files_from_iсloud_drive" = "finished migrating files from iCloud Drive";
+
+"long_text" = "Long Text";
+
+"6_character_pin_number" = "6-character pin number";
+
+"gender" = "Gender";
+
+"passwords_doesnt_match" = "Passwords doesn't match";
+
+"company" = "Company";
+
+"no_name" = "No Name";
+
+"agreement" = "Agreement";
+
+"owner_name" = "Owner Name";
+
+"mixed_race" = "Mixed Race";
+
+"shoot_edit_info" = "Enter information about your shoot.  You can select a previous location using the Locations... button, or your current location using the My Location button. Tap on the Date field to change its value.  If you are in the wizard, there is also a Shoots... button that allows you to copy the data from any previous shoot.";
+
+"photographer_name" = "Photographer's Name";
+
+"property_name_description" = "Property's Name/Description";
+
+"contacts" = "Contacts";
+
+"title_position" = "Title/Position";
+
+"skip_migration" = "Skip Migration";
+
+"dislike" = "Dislike";
+
+"add_as_new" = "Add as New";
+
+"owner_type" = "Owner's Type";
+
+"progress" = "Progress");
+
+"name_of_corporation" = "Name of Corporation";
+
+"required" = "required";
+
+"additional_field" = "Additional Field";
+
+"preferencesview_subfolder_psth_info" = "The default path to store release PDF files in the cloud services. Accepts the following variables: %d, %m, %y as Day, Month, Year.";
+
+"corporation" = "Corporation";
+
+"attach_visual_reference_of_model_here" = "Attach Visual Reference of Model Here";
+
+"customtemplateview_title_info" = "The Custom Template Title is printed at the top of the release, before the legal text. It may be empty.";
+
+"purchase_now" = "Purchase Now";
+
+"import_custom_templates" = "Import Custom Templates";
+
+"model_release" = "Model Release") : "property_release" = "Property Release";
+
+"parent_name_hint_less_than_30_days" = "Your model is a minor (less than one month old). You must fill in the Parent's Name.";
+
+"wizard_contact_info_info" = "We strongly advise obtaining the model's, parent's or owner's phone number and e-mail address should later contact become necessary.";
+
+"deletion_finished" = "Deletion Finished";
+
+"today" = "Today";
+
+"preferencesview_page_size_info" = "Your PDFs can be either US Letter sized, or A4 sized.";
+
+"purchase" = "Purchase";
+
+"address" = "Address";
+
+"prepared_to_delete_files_from_icloud_drive" = "prepared to delete files from iCloud Drive";
+
+"title_position" = "Title/Position";
+
+"gender" = "Gender";
+
+"properties" = "Properties";
+
+"unknown_release" = "Unknown Release";
+
+"unspecified" = "Unspecified";
+
+"witness_information" = "Witness Information";
+
+"preferences" = "Preferences";
+
+"photographer_name" = "Photographer Name";
+
+"male" = "Male";
+
+"no_name" = "No Name";
+
+"pro_packs" = "Pro-Packs";
+
+"wizard_model_all_other_names_info" = "If required, should enter all of the model/performer's previous stage and real names and aliases here.\n\nA simple comma-separated list is fine.";
+
+"not_now" = "Not Now";
+
+"sign_here" = "Sign Here";
+
+"owner_name" = "Owner's Name";
+
+"shoot_ref_id" = "Shoot Reference ID";
+
+"replace" = "Replace";
+
+"label_required" = "Label (required)";
+
+"progress" = "Progress";
+
+"downloads_files_from_icloud_drive" = "downloads files from iCloud Drive";
+
+"finnish" = "Finnish";
+
+"wizard_owners_name_info" = "Owner's Name: name the owner of the property, or the legal representative of the owner signing the release.";
+
+"type" = "Type";
+
+"english_us" = "English (USA)";
+
+"deletes_releases_from_icloud_drive" = "deletes Releases from iCloud Drive";
+
+"model_information" = "Model Information";
+
+"migrated" = "Migrated";
+
+"country" = "Country";
+
+"state" = "State";
+
+"before_synchronization_info" = "The synchronization process can take a long time the first time you launch the application after installation and / or on a slow internet connection.";
+
+"signed" = "Signed";
+
+"ethnicity" = "Ethnicity";
+
+"wizard_shoot_end_date_info" = "Shoot End Date: the end date of the shoot. Defaults to today. Shoot End Date allows you to support shoots with a date range. On the iPad, tap the date button to display a date picker.";
+
+"polish" = "Polish";
+
+"tap_here_to_agree" = "Tap here to Agree";
+
+"are_you_sure_you_want_to_delete_this_release" = "Are you sure you want to delete this release?";
+
+"brazilian_portuguese" = "Portuguese (Brazilian)";
+
+"additional_field" = "Additional Field";
+
+"models_name" = "Model's Name";
+
+"date_of_birth" = "Date of Birth";
+
+"share" = "Share";
+
+"send_feedback" = "Send Feedback";
+
+"single_page" = "Single Page (font will shrink to fit)";
+
+"witness_legal" = "All persons signing and witnessing must be of legal age and capacity in the area in which this Release is signed. A person cannot witness their own release.";
+
+"easy_release" = "Easy Release";
+
+"built_in" = "Built-In"; 
+
+"standard" = "Standard";
+
+"prepared_for_deleting_brands_from_icloud_drive" = "prepared for deleting Brands from iCloud Drive";
+
+"brands" = "Brands";
+
+"custom_fields" = "Custom Fields";
+
+"create_multi_page_releases" = "create multi-page releases";
+
+"asian_japanese" = "Asian (Japanese)";
+
+"ownership_information" = "Ownership Information";
+
+"in_order_to" = "In order to";
+
+"no_shoot_info" = "No Shoot Info";
+
+"customtemplateview_info" = "The Custom Template screen allow you to edit the properties of a custom template.\n\nThe Name is whatever you would like to call the custom template, and appear only the footer of a release, indicating which template was used.\n\nThe Title will be displayed at the top of releases that use this custom template.\n\nBranding specifies which brand you want to display at the top of releases.\n\nOptional Fields allows you to turn a few built-in fields on and off.\n\nCustom Fields allows you to add, edit and delete additional custom text and date fields for releases that use this custom template. If you create any custom fields, you will also need to add placehlolders for them to the legal text.  When editing the legal text, tap the Placeholders button to insert your custom fields into the text.\n\nLegal Text allows you to view and edit the template for the legal text for this custom template.  The Legal Text may have 'placeholders' in it for any data field collected by Easy Release (e.g., Model Name).\n\nThe buttons in the toolbar allow you to Duplicate this custom template, or to export it via email. An exported release takes the form of a very long custom URL (embedded in an email). If you send the email to another user, they can click on the embedded link to get the custom template imported into their copy of Easy Release.\n\nPlease note that editing Optional Fields, Custom Fields, or exporting this custom template, requires purchasing the Advanced Customization Pro-Pack.";
+
+"brands" = "Brands";
+
+"two_fields_stage_name_and_all_other_names" = "Two fields: Stage Name, and All Other Names";
+
+"individual" = "Individual";
+
+"migrates_releases_from_icloud_drive" = "migrates Releases from iCloud Drive";
+
+"language" = "Language";
+
+"customtemplatecustomfieldsview_info" = "The Custom Fields screen allows you to add, edit and delete custom fields.\n\nTap the '+' button in the lower left to add a new custom field.\n\nTap the Edit button in the top right to change the list to 'edit mode'. This will allow you to delete and reorder the custom fields.\n\nYou can also delete a custom field by swiping it.\n\nCustom Fields appear in the main Release Details screen, right before the Signatures, and can be filled in from there.  They do not appear during the wizard.\n\nAll custom fields must be added as 'placeholders' to the legal text of your release.  When you are editing the legal text, you can tap the Placeholders button and select your custom fields from the list.";
+
+"customtemplateoptionalfieldsview_info" = "The Optional Fields are built-in fields that you can turn on and off for releases created from this custom template.\n\nOther Names (Model releases only) turns on two fields: Stage Name, and All Other Names. These can be used to support 2257 requirements. (off by default)\n\nGender (Model releases only) allows you to hide or show the Gender field in the Model section. (on by default)\n\nEthnicity (Model releases only) allows you to hide or show the Ethnicity field in the Model section (on by default)\n\nShoot End Date allows you to support shoots with a date range. (off by default)\n\nWitness allows you to hide or show the Witness and Witness Signature fields. (on by default)\n\nCompensation turns on two fields: Amount and Tax ID (SSN).\n\nAll of these fields are displayed in the data column on the right hand side of your releases.";
+
+"created" = "Created";
+
+"action_during_custom_templates_import" = "Please select actions that should be performed during Custom Templates import if duplicates are found.";
+
+"progress" = "Progress";
+
+"wizard_id_image_info" = "ID Image: this image will be embedded in top right corner of the release and is meant to provide a visual reference to identify the model or property being released. We suggest you shoot a \"tight\" head-shot of the model in portrait orientation or in the case of property you may go either portrait or landscape as the situation warrants.";
+
+"customtemplatesview_info" = "The Custom Templates screen allows you to add, edit and delete custom templates.\n\nTap on a custom template to make it the default custom template used in new releases, as indicated by the checkmark.\n\nTap the '+' button in the upper-right of the screen to add a new custom template.\n\nTap the edit button (a blue circle with a '>' symbol) on the right hand side of a custom template to open the custom template editor.\n\nYou can swipe across a custom template to display the Delete button.";
+
+"description" = "Description";
+
+"shoot_date" = "Shoot Date";
+
+"purchased" = "Purchased";
+
+"wizard_shoot_date_info" = "Shoot Date: the date of the shoot. Defaults to today.  On the iPad, tap the date button to display a date picker.";
+
+"thank_you" = "Thank you!";
+
+"pdf_and_email" = "PDF and Email";
+
+"chinese_simplified" = "Chinese (Simplified)";
+
+"asian_other" = "Asian (Other)";
+
+"about_easy_release" = "About Easy Release";
+
+"prepares_for_migrating_brands_from_icloud_drive" = "prepares for migrating Brands from iCloud Drive";
+
+"icloud_sign_in_info" = "Go to Settings and sign in to your device with your Apple ID. When you sign in, iCloud is turned on automatically.";
+
+"photographer_filmmaker_and_shoot_information" = "Photographer/Filmmaker and Shoot Information";
+
+"no_logo" = "No logo";
+
+"parent_name" = "Parent Name";
+
+"zip_postal" = "Zip/Postal";
+
+"signature" = "Signature";
+
+"prepared_to_migrate_files_from_icloud_drive" = "prepared to migrate files from iCloud Drive";
+
+"before_deletion_info" = "The files listed above will be removed from local storage and iCloud Drive. This does not affect data that you have moved to a new storage or created in a new version of the application.";
+
+"alternate" = "Alternate";
+
+"english" = "English (Non-USA)";
+
+"page_size" = "Page Size";
+
+"multi_page_releases_pro_pack" = "Multi-Page Releases Pro-Pack";
+
+"custom_template" = "Custom Template";
+
+"wizard_custom_template_info" = "Select which custom template of the legal text you want to use for this release.\n\nYou can add and edit custom templates of the legal text from your Settings screen.";
+
+"wizard_title_position_info" = "Title/Position: for properties owned by corporations, this is the title or position of the person signing the release.";
+
+"deleted" = "Deleted";
+
+"send_bug_report" = "Send Bug Report";
+
+"selected" = "Selected";
+
+"icelandic" = "Icelandic";
+
+"custom_templates" = "Custom Templates";
+
+"custom_templates_ready_for_import" = "Custom Templates ready for Import";
+
+"italian" = "Italian";
+
+"adult" = "Adult";
+
+"disclaimer_terms_and_conditions" = "Disclaimer: Terms and Conditions\n\nUse of Easy Release and the resulting documents are subject to the following terms and conditions which you agree to be bound by each and every time you use the program.\n\nEasy Release helps you prepare model and property releases but does not provide legal advice nor is it a substitute for legal advice. You use it at your own risk and you acknowledge and agree that nothing about this app constitutes legal advice nor the practice of law. Please consult your own lawyer if you have any concerns about using Easy Release and the legality of the documents produced.";
+
+"a4" = "A4";
+
+"wizard_ethnicity_info" = "Ethnicity: presented as optional to the model, these fields capture information that if used as keywords associated with the images should add greater marketability to them.";
+
+"built_in" = "Built-In";
+
+"standard" = "Standard";
+
+"property_information" = "Property Information";
+
+"ownership_information" = "Ownership Information";
+
+"wizard_brands_info" = "Select the brand to use in the header of this release.";
+
+"contacting" = "Contacting";
+
+"danish" = "Danish";
+
+"witness_name" = "Witness's Name";
+
+"placeholders" = "Placeholders";
+
+"real_name" = "Real Name";
+
+"brandsview_info" = "The Brands screen allows you to add, edit and delete brands, and also to specify a default brand, that will be used by new releases.  Note that custom release versions can override this default brand.\n\nUse the '+' button in the upper right of the screen to add a new brand.\n\nSwipe to delete a brand.\n\nTap a brand to make it the default brand (it will display the checkmark).\n\nTap the edit button (a blue circle with a '>' symbol) on the right hand side of a brand to edit it.\n\nPlease note that adding more than one brand requires purchasing the Advanced Customization Pro-Pack.";
+
+"sub_folder_path" = "Sub-folder path";
+
+"not_ready_to_sign" = "Not ready to sign";
+
+"propertys_address" = "Property's Address";
+
+"tax_id_ssn" = "Tax ID/SSN";
+
+"required_fields" = "Required Fields";
+
+"black" = "Black";
+
+"import_custom_template" = "Import Custom Template";
+
+"signature" = "Signature";
+
+"after_deletion_info" = "The above data has been successfully deleted.";
+
+"layout_mode" = "Layout Mode";
+
+"no_id_image" = "No ID image";
+
+"cancel" = "Cancel";
+
+"report_a_bug" = "Report a Bug";
+
+"owner_edit_info" = "Use this screen to collect all owner information at once. It includes the Owner Name, Corporate Info (if needed), and Contact Info.";
+
+"migrated" = "Migrated";
+
+"start_migration" = "Start Migration";
+
+"owner" = "Owner";
+
+"skip_deletion" = "Skip Deletion";
+
+"required" = "Required"; 
+
+"no" = "No";
+
+"signature_removing_warning" = "If you edit this release, it will have to be signed again. Are you sure you want to continue?";
+
+"should_attach_jpeg_of_id_to_email" = "Should attach JPEG of ID to email";
+
+"advanced_customization" = "Advanced Customization";
+
+"edit_custom_field" = "Edit Custom Field") : "add_custom_field" = "Add Custom Field";
+
+"african_american" = "African American";
+
+"property_name_description" = "Property's Name/Description";
+
+"native_american" = "Native American";
+
+"wizard_property_address_info" = "Address: the complete address of the property covered by the release.";
+
+"please_fill_this_fields" = "Please fill this fields:";
+
+"ready_to_send" = "Ready To Send";
+
+"rate_this_app" = "Rate this App";
+
+"shoot_name_ref" = "Shoot Name/Ref";
+
+"asian" = "Asian";
+
+"customtemplateview_name_info" = "The Custom Template Name is for your reference use only. It will appear in small text in the footer of each release.";
+
+"settings" = "Settings";
+
+"repeat_the_password_please" = "Repeat the password please";
+
+"parent_name_hint_less_than_12_months" = "Your model is a minor (%d months old). You must fill in the Parent's Name.";
+
+"date" = "Date";
+
+"migrates_brands_from_icloud_drive" = "migrates Brands from iCloud Drive";
+
+"go_to_dashboard" = "Go to Dashbord";
+
+"model" = "Model";
+
+"property" = "Property";
+
+"type" = "Type";
+
+"shoot_dates" = "Shoot Dates";
+
+"should_attach_jpeg_of_pdf_to_email" = "Should attach JPEG of PDF to email";
+
+"page" = "Page";
+
+"of" = "of";
+
+"name" = "Name";
+
+"ref_id" = "Reference ID";
+
+"stage_name" = "Stage Name";
+
+"name" = "Name";
+
+"we_sincerely_appreciate_your_insight_because_it_helps_us_build_a_better_customer_experience" = "We sincerely appreciate your insight because it helps us build a better customer experience";
+
+"build" = "Build";
+
+"date_of_birth" = "Date of Birth";
+
+"ready_to_sign" = "Ready To Sign";
+
+"branding_for_pdf_header" = "Branding for PDF Header";
+
+"signatures" = "Signatures";
+
+"label" = "Label";
+
+"photographer_filmmaker_and_shoot_information" = "Photographer/Filmmaker and Shoot Information";
+
+"enter_the_password_please" = "Enter the password please";
+
+"custom" = "Custom";
+
+"german" = "German";
+
+"com.applicationgap.EasyRelease.v2arc.Description" = "The Advanced Customization Pro-Pack brings professional customization features to Easy Release.\n\nMultiple Brands\nYou can define more than one brand, and easily select the brand you want on a per-template and per-release basis.\n\nOptional Fields\nYou can turn off some of the old built-in fields, and/or turn on some new built-in fields.\n- You can choose to turn off Witness, Gender and/or Ethnicity.\n- You can turn on Shoot End Date, which allows your release to cover a range of dates, rather than just a single day.\n- You can turn on Other Names. This adds two fields to your release: Stage Name and All Other Names. Use this to help collect required 2257 information for your models and performers.\n- You can turn on Compensation. This adds two fields to your release: Amount and Tax ID.\n\nCustom Fields\nIf the built-in fields are not enough, you can now add custom fields.\n- As many as you want\n- Three types: Text, Long Text, and Date\n- Specify a label and default value for each one\n- You can mark any custom field as 'required'\n\nImport/Export Custom Versions\nShare custom templates via email. Recipients just click on the link in the email to import your template.";
+
+"photographers_name" = "Photographer's Name";
+
+"witness" = "Witness";
+
+"if_you_have_any_more_questions_comments_or_concerns_or_compliments_please_feel_welcome_to_reach_back_out_as_we_would_be_more_than_happy_to_assist" = "If you have any more questions, comments, or concerns or compliments, please feel welcome to reach back out as we would be more than happy to assist.";
+
+"wizard_photographer_name_info" = "Photographer's Name: the photographer's name for the release.";
+
+"hide_keyboard" = "Hide Keyboard";
+
+"delete_old_data" = "Delete old data";
+
+"swedish" = "Swedish";
+
+"the_label_cannot_be_empty" = "The label cannot be empty. Please enter the text in the label field.";
+
+"done" = "Done";
+
+"shoot_date" = "Shoot Date";
+
+"builtincustomtemplateview_info" = "Built-in standard templates cannot be edited or deleted, but you can select and copy text to paste into a new custom template.";
+
+"custom_template_name_required" = "Custom Template Name (Required)";
+
+"corporation_name" = "Corporation Name";
+
+"import_custom_templates" = "import custom templates";
+
+"model_information" = "Model Information";
+
+"deletes_custom_templates_from_icloud_drive" = "deletes Custom Templates from iCloud Drive";
+
+"prev" = "Prev";
+
+"miscellaneous" = "Miscellaneous";
+
+"shoot_info" = "Shoot Info";
+
+"share_custom_templates" = "share custom templates";
+
+"prepares_for_migrating_custom_templates_from_icloud_drive" = "prepares for migrating Custom Templates from iCloud Drive";
+
+"owners" = "Owners";
+
+"shoot_name" = "Shoot Name";
+
+"preferencesview_photographer_email_info" = "The default email address to which releases will be sent.";
+
+"amount" = "Amount";
+
+"next" = "Next";
+
+"is_checking_icloud_drive_files_versions" = "is checking iCloud Drive files versions";
+
+"wizard_shoot_info_info" = "Create a new shoot or choose from list of previous shoots.\n\nShoot Name: a short description of the context of the pictures (or \"shoot\") you wish to model release.\n\nShoot Reference ID: any alpha numeric sequence up to 50 characters used optionally for your own reference purposes or those of your company/agency.\n\nIf you select a previous shoot, the shoot's name, reference id, location and date will all be filled in.";
+
+"tap_here_to_create" = "Tap here to Create";
+
+"no_internet_connection" = "No Internet Connection";
+
+"owner_signature" = "Owner Signature";
+
+"russian" = "Russian";
+
+"property_edit_info" = "Use this screen to collect all property and owner information at once.  It includes the Property Name/Description, Address, Owner Name, Corporate Info (if needed), and Contact Info.";
+
+"action_during_migration" = "Please select actions that should be performed during data migration if duplicates are found.";
+
+"state" = "State";
+
+"cant_send_mail" = "Can't send mail";
+
+"wizard_notes_info" = "Enter any notes 'to yourself' about this release. These notes are not part of the release, but they will be included in any email you send from Easy Release.";
+
+"wizard_shoot_date_info" = "Shoot End Date: the end date of the shoot. Defaults to today. Shoot End Date allows you to support shoots with a date range. On the iPad, tap the date button to display a date picker.";
+
+"prepared_for_deleting_releases_from_icloud_drive" = "prepared for deleting Releases from iCloud Drive";
+
+"edit_custom_template" = "Edit Custom Template") : "add_custom_template" = "Add Custom Template";
+
+"model_minor" = "Your model is a minor (less than one month old). You must fill in the Parent's Name";
+
+"photographers_email" = "Photographer's email";
+
+"see_instructions" = "See instructions";
+
+"parents_name" = "Parent's Name";
+
+"brand_none" = "Brand: None";
+
+"model_name" = "Model Name";
+
+"custom_templates_import" = "Custom Templates Import";
+
+"models" = "Models";
+
+"date_signed" = "Date Signed";
+
+"japanese" = "Japanese";
+
+"shoot_region_state" = "Shoot Region/State";
+
+"shoot_end_date" = "Shoot End Date";
+
+"id_like_to_report_a_bug_in_easy_release_for_ios_ipados_version" = "I'd like to report a bug in Easy Release for iOS/iPadOS version";
+
+"owners_type" = "Owner's Type";
+
+"password_protect_settings_screen" = "Password protect settings screen";
+
+"addendum_for_this_release" = "Addendum for this release";
+
+"edit_custom_fields" = "edit custom fields";
+
+"deleted" = "Deleted";
+
+"no_name" = "No Name";
+
+"required" = "Required";
+
+"yes" = "Yes";
+
+"migrates_preferences_from_icloud_drive" = "migrates Preferences from iCloud Drive";
+
+"photographer_name_required" = "Photographer's Name (required)";
+
+"phone" = "Phone";
+
+"preferencesview_photographer_name_info" = "The default photographer name that will be filled in to new releases.";
+
+"none" = "None";
+
+"parent_name_hint_minor" = "Your model is a minor. You must fill in the Parent's Name.";
+
+"downloaded" = "Downloaded";
+
+"from" = "from";
+
+"deleted" = "Deleted";
+
+"street" = "Street";
+
+"label" = "Label";
+
+"are_you_sure_you_want_to_delete_the_custom_field?" = "Are you sure you want to delete the custom field?";
+
+"type" = "Type";
+
+"ethnicity" = "Ethnicity";
+
+"model_is_an_adult" = "Model is an adult";
+
+"password_is_to_short" = "Password is to short";
+
+"report_a_bug" = "Report a bug";
+
+"property_name_description_required" = "Property's Name/Description (required)";
+
+"want_to_learn_how_to_add_an_email_account_to_your_iphone_ipad_or_ipod_touch" = "Want to learn how to add an email account to your iPhone, iPad, or iPod touch?";
+
+"optional_ethnicity_information" = "Optional Ethnicity Information";
+
+"app_store" = "App Store";
+
+"created_by_easy_release_for" = "Created by Easy Release for";
+
+"version" = "version";
+
+"incomplete" = "Incomplete";
+
+"address" = "Address";
+
+"photographer" = "Photographer";
+
+"shoot_location" = "Shoot Location";
+
+"preferencesview_info" = "The Easy Release Settings let you manage default values for new releases, as well as other configuration parameters.\n\nPhotographer's Name, Email and Signature: Enter the photographer's name for new releases, and the email address where you wish to receive the PDFs. Any default signature entered here will be attached to each new release.\n\nBranding for PDF Header: if you want to display your logo, company name or contact info at the top of each release, enter it in these fields.\n\nRelease Legal Text Defaults: enter the default language for the legal text (and other labels in the PDF files). For the selected language, you can also specify the default version to use for new model and property releases.\n\nBCC allows you to specify the email address to BCC when you email releases.\n\nAttach JPEGs of PDFs to email: causes a JPEG image of the release PDF to be attached to the email, along with the PDF itself.\n\nUse Alternate PDF Engine: Select this if you are having trouble viewing Easy Release PDFs on Windows, or if you want to be able to view your PDFs with Google Docs.  The alternate engine supports all languages except Chinese, Polish and Russian.\n\nPage Size: You can select Letter or A4 size for your releases.\n\nPro-Packs: Use this to purchase or restore the purchase of the Pro-Pack.\n\nDelete \"Sent\" releases after 30 days: will cause any releases that have been sent to be deleted after they are 30 days old. If this option is not selected, no releases will be automatically deleted.\n\nUse iCloud: Turn this on if you want to keep your releases and settings across your devices.\n\nContact: you can use these buttons to rate the app, or send feedback and bug reports to ApplicationGap.\n\nEasy Release is brought to you by ApplicationGap";
+
+"wizard_date_of_birth_info" = "Date of Birth: the model's date of birth. Needed to establish if the model is an adult or minor and if parental permission is required.\n\nIf you know the model is an adult or a minor, you can select 'Adult' or 'Minor' rather than a specific date, but you should verify that your customers accept releases without an exact date of birth.";
+
+"shoot" = "Shoot";
+
+"stage_name" = "Stage Name";
+
+"enter_a_password_please" = "Enter a password please";
+
+"start_deletion" = "Start Deletion";
+
+"built_in" = "Built-In";
+
+"info" = "Info";
+
+"progress" = "Progress";
+
+"are_you_sure_you_want_to_delete_the_brand?" = "Are you sure you want to delete the brand?"
+
+"company_name" = "Company Name";
+
+"fields" = "Fields";
+
+"prepared_for_deleting_custom_templates_from_icloud_drive" = "prepared for deleting Custom Templates from iCloud Drive";
+
+"title_displayed_in_pdf" = "Title (Displayed in PDF)";
+
+"parent_signature" = "Parent Signature";
+
+"wizard_propertys_name_info" = "Property's Name/Description: describe the property you wish to have covered by this release including address if real estate or, if intellectual property, details of any registration / other description.\n\nIf you select a previous property from the list, the propety description and all owner info will be filled in from the previous values.";
+
+"middle_eastern" = "Middle Eastern";
+
+"migration_finished" = "Migration Finished";
+
+"cloud_management" = "Cloud Management";
+
+"corporation_representative" = "Corporation Representative";
+
+"owner's_contact_info" = "Owner's Contact Info";
+
+"default" = "Default";
+
+"sent" = "Sent";
+
+"clipboard" = "Clipboard";
+
+"stage_name" = "Stage Name";
+
+"brandview_companyname_info" = "Specify the company name to show at the top of each PDF. It could just be the photographer name, company name or DBA.\n\nIt will be displayed at the top of left column, next to your logo (if you select one).";
+
+"parent_name_required" = "Parent's Name (required)";
+
+"shoot_name_ref" = "Shoot Name/Ref";
+
+"open_in" = "Open In...";
+
+"migrates_custom_templates_from_icloud_drive" = "migrates Custom Templates from iCloud Drive";
+
+"deletes_preferences_from_icloud_drive" = "deletes Preferences from iCloud Drive";
+
+"photographer_name" = "Photographer Name";
+
+"model_release_summary" = "Model Release Summary";
+
+"parent_name_hint_adult" = "Your model is an adult. You do not need to fill in the Parent's Name.";
+
+"warning" = "Warning";
+
+"critical_error" = "Critical error";
+
+"shoot_dates" = "Shoot Dates";
+
+"property_description" = "Property Description";
+
+"brand_import" = "Brand Import";
+
+"loading" = "Loading...";
+
+"preferencesview_bcc_info" = "BCC: If you enter an additional email here, your PDFs will be sent to this address whenever they are sent to you. You can use this field, for example, to BCC your PDFs to a cloud storage service.";
+
+"parent_legal" = "Model is a minor or lacks capacity in the jurisdiction of residence, so Parent warrants and represents that Parent is the legal guardian of Model, and has the full legal capacity to consent to the Shoot and to execute this release OF ALL RIGHTS IN MODEL’S CONTENT";
+
+"photographer_signature" = "Photographer Signature";
+
+"layout" = "Layout";
+
+"female" = "Female";
+
+"propertys_name" = "Property's Name";
+
+"no_brand_selected" = "No brand selected";
+
+"logo" = "Logo";
+
+"edit_brand" = "Edit Brand") : "add_brand" = "Add Brand";
+
+"legal_text" = "Legal Text";
+
+"email" = "Email";
+
+"attach_visual_reference_of_property_here" = "Attach Visual Reference of Property Here";
+
+"australian_aboriginal" = "Australian (Aboriginal)";
+
+"releasesview_info" = "Thank you for your purchase of Easy Release!\n\nYou can find contextual help on most screens by touching the (i) info button.\n\nAll application settings are accessed from the \"gears\" icon at bottom-right of the release list.\n\nThe release list on this screen can be grouped by Shoot name, Status, Date or Name.\n\nWhen sorted by Shoot or Date you can multi-send the release PDF files by touching the boxed-arrow icon.\n\nTouch the + icon at top-right to create a new release.\n\nTouch settings to set photographers info, branding, custom release text templates, languages, auto-BCC, page size, turn-iCloud on/off, contact us for support or feedback, and more.";
+
+"releases" = "Releases";
+
+"action_during_deletion" = "Please select actions that should be performed during data deletion.";
+
+"like" = "Like";
+
+"migration_settings" = "Migration Settings";
+
+"spanish" = "Spanish";
+
+"save_release_pdfs_to_one_drive" = "Save release PDFs to OneDrive";
+
+"taken" = "Taken";
+
+"name_of_corporation" = "Name of Corporation";
+
+"please_rotate_sideways_before_signing" = "Please rotate sideways before signing";
+
+"property_release" = "Property Release";
+
+"save_release_pdfs_to_dropbox" = "Save release PDFs to Dropbox";
+
+"rate_this_app" = "Rate This App";
+
+"french_alternate" = "French (release in France)";
+
+"cant_encode_custom_template" = "Can't encode Custom Template";
+
+"phone" = "Phone";
+
+"clear_signatures_and_edit" = "Clear Signatures and Edit";
+
+"restore_previous_purchases" = "Restore Previous Purchases";
+
+"require_model_birthdate" = "Require Model Birthdate";
+
+"type_your_notes_here" = "Type your notes here...";
+
+"wizard_address_info" = "Address: the model's or in the case of a minor, the parent's complete address.";
+
+"phone" = "Phone";
+
+"model_release" = "Model Release";
+
+"owners_name" = "Owner's Name";
+
+"parent_information" = "Parent Information";
+
+"property_release_summary" = "Property Release Summary";
+
+"addendum" = "Addendum";
+
+"release_details" = "Release Details";
+
+"corps_name" = "Corp's Name";
+
+"error" = "Error";
+
+"id_image" = "ID Image";
+
+"required" = "Required";
+
+"no" = "No";
+
+"action_during_custom_template_import" = "Please select actions that should be performed during Custom Template import if duplicate is found.";
+
+"wizard_notes_info" = "";
+
+"contacts" = "Contacts...";
+
+"required" = "Required";
+
+"import_settings" = "Import Settings";
+
+"checked" = "Checked";
+
+"parent_legal" = "Model is a minor or lacks capacity in the jurisdiction of residence, so Parent warrants and represents that Parent is the legal guardian of Model, and has the full legal capacity to consent to the Shoot and to execute this release OF ALL RIGHTS IN MODEL’S CONTENT";
+
+"is synchronizing" = "is synchronizing";
+
+"prepares_for_migrating_releases_from_icloud_drive" = "prepares for migrating Releases from iCloud Drive";
+
+"city" = "City";
+
+"defaultsToToday" = "Defaults to Today";
+
+"age" = "Age";
+
+"edit_optional_fields" = "edit optional fields";
+
+"unable_to_get_user_preferences" = "Unable to get user Preferences.\nUser Preferences were not migrated or were not created properly.";
+
+"custom_templates" = "Custom Templates";
+
+"deletes_brands_from_icloud_drive" = "deletes Brands from iCloud Drive";
+
+"city" = "City";
+
+"feedback_about_easy_release_for_ios_ipados_version" = "Feedback about Easy Release for iOS/iPadOS version";
+
+"missing" = "Missing";
+"you_can_insert_missing_fields_using_the_placeholders_button_when_you_are_editing_the_legal_text" = "You can insert missing fields using the Placeholders button when you are editing the legal text";
+
+"release" = "Release";
+
+"progress" = "Progress";
+
+"required" = "Required";
+
+"progress" = "Progress";
+
+"customtemplatesviewimport_info" = "The Custom Templates Import screen allows you to import custom templates.\n\nTap on a custom template to preview custom template.";
+
+"are_you_sure_you_want_to_delete_the_custom_template?" = "Are you sure you want to delete the custom template?";
+
+"missing_placeholder" = "missing placeholder";
+
+"models_name" = "Model's Name";
+
+"photographer_filmmaker_info" = "Photographer/Filmmaker and Shoot Information";
+
+"amount" = "Amount";
+
+"model_is_a_minor" = "Model is a minor";
+
+"save_release_pdfs_to_google_drive" = "Save release PDFs to Google Drive";
+
+"i_agree" = "I Agree";
+
+"owner_type" = "Owner Type";
+
+"password" = "Password";
+
+"legal" = "Legal";
+
+"all_other_names" = "All Other Names";
+
+"last_sent" = "Last Sent";
+
+"default_value" = "Default Value";
+
+"disclaimer" = "Disclaimer";
+
+"contact" = "Contact";
+
+"import" = "Import";
+
+"clear" = "Clear";
+
+"parent" = "Parent";
+
+"tax_id_ssn" = "Tax ID/SSN";
+
+"for_example_polaroid_drivers_license_print_photocopy" = "For example: Polaroid, drivers license, print, photocopy";
+
+"minor" = "Minor";
+
+"an_unexpected_error_occurred_while_creating_the_pdf_document" = "An unexpected error occurred while creating the PDF document.";
+
+"parent_name_hint_age_adult" = "Your model is not a minor. (%d years old). You don't need to fill in the Parent's Name.";
+
+"wizard_model_stage_name_info" = "If required, you should enter the model/performer's current Stage Name here.";
+
+"shoot_location" = "Shoot Location";
+
+"wizard_gender_info" = "Gender: the model's sex.";
+
+"required" = "Required";
+
+"updated" = "Updated";
+
+"other" = "Other";
+
+"preferences" = "Preferences";
+
+"owners_name" = "Owner's Name";
+
+"address" = "Address";
+
+"deleted" = "Deleted";
+
+"zip_postal" = "Zip/Postal";
+
+"please_restart_the_application" = "Please restart the application to try to fix this error.";
+
+"your_device_isnt_configured_to_send_mail" = "Your device isn't configured to send mail";
+
+"wizard_owners_type_info" = "Owner Type: select the type of owner of the property.";
+
+"getting_started" = "Getting Started";
+
+"icloud" = "iCloud";
+
+"i_do_not_agree" = "I do not agree";
+
+"two_fields_amount_and_tax_id_ssn" = "Two fields: Amount and Tax ID (SSN)";
+
+"contact_info" = "Contact Info";
+
+"advanced_customization_pro_pack" = "Advanced Customization Pro-Pack";
+
+"prepares_for_migrating_preferences_from_icloud_drive" = "prepares for migrating Preferences from iCloud Drive";
+
+"customtemplatelegaltextview_info" = "The Legal Text can be any text you want, along with placeholders.\n\nPlaceholders will be filled in with data from the release. Placeholders take the form of ((Section.Field)), such as ((Model.Name)) and ((Shoot.Start Date)).\n\nMost data fields already show up in the release's right-side data section, but you may also want to include them in the body of the legal text.\n\nSome fields have to placeholders. It is easiest to just use the Placeholders screen to select the ones you want to insert into the text.\n\nIf you have custom fields, you will want to include placeholders for those fields in the legal text, since they do not appear in the data column.\n\nIf you include a placeholder in the legal text, but then do not fill a value, blank, underlined space will be left in the release for you to enter the data hand, after you print the release.";
+
+"release_management" = "Release Management";
+
+"asian_korean" = "Asian (Korean)";
+
+"exit_wizard" = "Exit Wizard";
+
+"please_use_numbers_only" = "Please use numbers only";
+
+"parent_name_hint_age_minor" = "Your model is a minor (%d years old). You must fill in the Parent's Name.";
+
+"progress" = "Progress";
+
+"release_id" = "Release Id";
+
+"caucasian_white" = "Caucasian (White)";
+
+"hispanic_latin" = "Hispanic (Latin)";
+
+"fill_in_all_required_fields_first" = "Fill in all required fields first";
+
+"date_of_birth" = "Date of Birth";
+
+"connecting" = "Connecting...";
+
+"parent_name_hint_not_specified" = "You have not specified a date of birth for your model. If your model is a minor, you must fill in the Parent's Name. Otherwise, leave this blank.";
+
+"action_during_migration" = "Please select actions that should be performed during data deletion.";
+
+"gender" = "Gender";
+
+"unknown" = "Unknown";
+
+"delete_sent_releases" = "Delete Sent releases";
+
+"title" = "Title";
+
+"progress" = "Progress";
+
+"owners_corps_name" = "Owner's Corp's Name";
+
+"missing_placeholders" = "missing placeholders";
+
+"property_information" = "Property Information";
+
+"title_position" = "Title/Position";
+
+"brandview_info" = "The Edit Brand screen allows you to edit the logo, company name, and company contact for your brand.\n\nAt least one of these pieces of information must be filled in.";
+
+"scroll_down" = "Scroll Down";
+
+"legal_text_copied_to_clipboard" = "Legal text copied to clipboard.";
+
+"age" = "Age";
+
+"Password" = "Password";
+
+"is_not_available" = "is not available";
+
+"progress" = "Progress";
+
+"pacific_islander" = "Pacific Islander";
+
+"wizard_shoot_location_info" = "Shoot Country: the country where the pictures you are releasing have been shot.\n\nShoot Region/State: either the State, Province, Region, or other such sub-location within the country where the pictures you are releasing have been shot.\n\nIf you select a previous shoot location, the shoot's country and region will be filled in.";
+
+"name" = "Name";
+
+"no_shoot_info" = "No Shoot Info";
+
+"finished_deleting_files_from_icloud_drive" = "finished deleting files from iCloud Drive";
+
+"do_you_want_to_purchase_the" = "Do you want to purchase the";
+
+"for" = "for";
+
+"letter" = "Letter";
+
+"sort_by" = "Sort By";
+
+"wizard_addendum_info" = "Specify any addendum (extra conditions or restrictions) to the legal text for this release.\n\nThe Addendum will be displayed at the end of the legal text, at the bottom of the left column of the PDF.";
+
+"brandview_companycontact_info" = "Specify the contact info to show at the top of each PDF. It might include web, phone or email information for yourself or your company.\n\nIt will be displayed on a single line at the top of the left column, next to your logo (if you select one).";
+
+"no_name" = "No Name";
+
+"multi_page_releases" = "Multi-page Releases";
+
+"list" = "List";
+
+"releases" = "Releases";
+
+"problems" = "Problems";
+
+"shoot_location" = "Shoot Location";
+
+"brandview_imageview_info" = "Use this screen to select or photograph a logo to display at the top of each PDF file. It will be resized to fit.\n\nThe logo will display on all releases, at the top of the left column.";
+
+"email" = "Email";
+
+"notes" = "Notes";
+
+"compensation" = "Compensation";
+
+"wizard_parents_name_info" = "Parent's Name: in the case of a model who is a minor a parent must be present and give consent. In most countries the age of majority is 18 years old. However in some cases the age at which a model should use an adult model release is different. The age of majority applies to the country in which the model is domiciled.";
+
+"status" = "Status";
+
+"wizard_models_name_info" = "Model's Name: You may either type the model's name here or select from a list of previous models.\n\nIf you select a previous model, the model's name, address, date of birth, ID photo, gender, and ethnicity will all be filled in with the previous values.\n\nIf you select a model from your Contacts, Easy Release will attempt to fill in the name, address, email and phone of the model, from the information in the contact record.";
+
+"standard" = "Standard";
+
+"ok" = "OK";
+
+"parent_name_hint_age_possible_minor" = "If your model is a minor in your current jurisdiction (%d  years old), you must fill in the Parent's Name.";
+
+"pdf" = "PDF";
+
+"no_agreement_for_this_type_of_signature" = "No agreement for this type of signature.";
+
+"brands" = "Brands";
+
+"custom_template_import" = "Custom Template Import";
+
+"an_error_has_occurred" = "An error has occurred";
+
+"incorrect_passwords" = "Incorrect passwords";
+
+"customtemplateimportlegaltextview_info" = "This is preview of Custom Template Legal Text.";
+
+"brand" = "Brand";
+
+"release_legal_text_defaults" = "Release Legal Text Defaults";
+
+"preferencesview_legal_language_info" = "Select the language for this release (or the default for new releases if you are choosing this from the Settings screen).\n\nThe PDF of the release will use this language.";
+
+"wizard_parents_name_info" = "Parent's Name: in the case of a model who is a minor a parent must be present and give consent.  In most countries the age of majority is 18 years old. However in some cases the age at which a model should use an adult model release is different. The age of majority applies to the country in which the model is domiciled.";
+
+"branding" = "Branding";
+
+"custom_template" = "Custom Template";
+
+"version" = "Version";
+
+"default_value" = "Default Value";
+
+"asian_indian" = "Asian (Indian)";
+
+"wizard_witness_name_info" = "Witness's Name: enter the name of a witness to the release creation or pick from list of prior witnesses. This is optional but strongly recommended. Check with your agency or publication as they may require a witness.\n\nIf you fill in the Witness Name, you also must get the witness to sign this release.";
+
+"model_name" = "Model's Name";
+
+"add_more_than_one_brand" = "add more than one brand";
+
+"what_type_of_release_do_you_want_to_create" = "What type of release do you want to create?";
+
+"com.applicationgap.EasyRelease.multipage.Description" = "Create multi-page releases.";
+
+"model_signature" = "Model Signature";
+
+"shoot_country" = "Shoot Country";
+
+"or_select_from_list" = "Or select from list...";
+
