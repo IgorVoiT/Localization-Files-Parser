@@ -21,7 +21,7 @@ class Parser {
     func getSwiftFileLocations(for path: String) {
         urlsToParse = []
         foundStrings = []
-        urlsToParse = [URL(fileURLWithPath: path)] // fileManager.listFilesAndFilter(path: path, ext: "swift")
+        urlsToParse = fileManager.listFilesAndFilter(path: path, ext: "swift")
         
        // NotificationCenter.default.post(name: NSNotification.Name("startedParsing"), object: nil)
         
@@ -48,26 +48,25 @@ class Parser {
         var res: [String] = []
         
         
-        res = text.components(separatedBy: ";")
+       // res = text.components(separatedBy: ";")
         
-//        let matches = text.match("[( [:blank:]]\".*\".\\blocalized\\b\\(\\bvalue\\b: \".*\"\\)")
-//
-//        matches.forEach({ match in
-//            for str in match {
-//                var new: String = str
-//                if new.first == "(" || new.first == " " {
-//                    new.removeFirst()
-//                }
-//                new = new.dropLast().replacingOccurrences(of: ".localized(value: ", with: " = ")  + ";" + "\n" + "\n"
-//                print(new)
-//                res.append(new)
-//            }
-//        })
+        let matches = text.match("[( [:blank:]]\".*\".\\blocalized\\b\\(\\bvalue\\b: \".*\"\\)")
+        matches.forEach({ match in
+            for str in match {
+                var new: String = str
+                if new.first == "(" || new.first == " " {
+                    new.removeFirst()
+                }
+                new = new.dropLast().replacingOccurrences(of: ".localized(value: ", with: " = ")  + ";" + "\n" + "\n"
+            //    print(new)
+                res.append(new)
+            }
+        })
         
         for str in res {
            // all.append(str)
             let new = str + ";"
-            print(new)
+        //    print(new)
             foundStrings.insert(new)
         }
         
@@ -81,6 +80,7 @@ class Parser {
     func writeResult() {
         
         for str in foundStrings {
+            print(str)
             writeAsync(text: str)
         }
         
@@ -100,8 +100,6 @@ class Parser {
                 completion(.failure(error))
             }
         }
-        
-        
      }
     
     
